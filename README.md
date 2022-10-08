@@ -1,7 +1,5 @@
-# HTML-CSS Practice
+# Blinking Paragraph
 
-This includes webhint, stylelint, and prettier.
+Was researching Filtered Front End Code Challenges and saw [this screenshot](https://assets.website-files.com/5ea24b543a32740cfdead7e9/5ea24b543a327474baead9fe_Front-end%20code%20challenges.png). Seemed interesting and so I built it out.
 
-VS Code settings are included to streamline the process. Stylelint extension and prettier are there too for real time feedback. Because of the settings, Prettier will auto-format whenever you move out of the file.
-
-Run `npm install` to install the dependencies. Then, run `npm start` to start the server.
+Just all vanilla.
